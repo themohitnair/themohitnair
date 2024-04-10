@@ -9,12 +9,6 @@
 
 <img src="/githubprofilebanner.jpg">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 # About Me
 - I'm Mohit Nair, a student passionate about Open-Source, web development, and coding.
 - I'm pursuing my B. Tech degree in Information Science and Engineering at Ramaiah Institute of Technology, Bengaluru.
@@ -36,9 +30,6 @@
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript logo"  />
 - Django, Flask <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="22" alt="django logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="22" alt="flask logo"  />
 
-# Profile Views
-
-
 # My Stats
 <div align="center">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=themohitnair&label=Profile%20views&color=0e75b6&style=flat" alt="themohitnair" /> </p>
@@ -46,6 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=themohitnair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themohitnair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
     <img src="https://github-profile-trophy.vercel.app/?username=themohitnair&theme=onedark">
+    ![Snake animation](https://github.com/themohitnair/themohitnair/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 # Let's Connect 
@@ -54,12 +46,3 @@
 <a href="https://instagram.com/the_mohitnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mohitnair" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/the_mohitnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_mohitnair" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-
