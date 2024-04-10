@@ -33,12 +33,26 @@
 # Profile Views
 <img src="https://profile-counter.glitch.me/themohitnair/count.svg?"  />
 
+# My Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=themohitnair&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/themohitnair/themohitnair/output/snake.svg" alt="Snake animation" />
+  
+# Let's Connect 
+<div align="center">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+  
 
 
-  
-  
-  
- 
+
+
+
+###
   
 
   
