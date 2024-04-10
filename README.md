@@ -31,25 +31,32 @@
 - Django, Flask <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="22" alt="django logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="22" alt="flask logo"  />
 
 # Profile Views
-<img src="https://profile-counter.glitch.me/themohitnair/count.svg?"  />
+
 
 # My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=themohitnair&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themohitnair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themohitnair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=themohitnair&label=Profile%20views&color=0e75b6&style=flat" alt="themohitnair" /> </p>
+    <img src="https://streak-stats.demolab.com?user=themohitnair&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=themohitnair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themohitnair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themohitnair" alt="themohitnair" /></a> </p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themohitnair&show_icons=true&locale=en" alt="themohitnair" /></p>
 
-<img src="https://raw.githubusercontent.com/themohitnair/themohitnair/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themohitnair&" alt="themohitnair" /></p>
+</div>
   
 # Let's Connect 
-<div align="center">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/themohitnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themohitnair" height="30" width="40" /></a>
+<a href="https://instagram.com/the_mohitnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mohitnair" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/the_mohitnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_mohitnair" height="30" width="40" /></a>
+</p>
 
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 
