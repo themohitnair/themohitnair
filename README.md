@@ -10,23 +10,9 @@ I'm a passionate Computer Science student based in Bangalore, India. I love maki
 - Frameworks & Libraries: FastAPI, SQLModel, Pandas, Matplotlib, React, NextJS
 - Tools & Technologies: Linux (Arch), Git, GitHub, Cloudflare, Vercel
 
-## 🔭 Current Projects
-
-- [sfnx](https://github.com/themohitnair/sfnx): A terminal-based password manager.
-- [distrowiz](https://github.com/themohitnair/distrowiz): A Linux distro-chooser.
-- [skyblog](https://github.com/themohitnair/skyblog): A blogging template made in Gin (Golang)
-
-## 🌱 I'm currently learning
-
-- ReactJS
-- Transformers (Python)
-- HonoJS
-
 ## 📫 How to reach me
 
 - LinkedIn: [themohitnair](https://www.linkedin.com/in/themohitnair/)
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
